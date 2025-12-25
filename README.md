@@ -1,2 +1,23 @@
-# in-silico-antibacterial-study
-Undergraduate in silico study on antibacterial compounds against Vibrio parahaemolyticus
+# In Silico Antibacterial Study
+
+## Overview
+This repository documents my undergraduate in silico research project focused on identifying potential antibacterial compounds against *Vibrio parahaemolyticus*.
+
+## Methods
+- PASS Online for biological activity prediction
+- Molecular docking using blind docking approach
+- Target proteins: PirA, PirB, TDH
+- Docking evaluation based on binding affinity (ΔG), inhibition constant (Ki), and protein–ligand interactions
+
+## Tools
+- AutoDock / AutoDock Vina
+- PASS Online
+- PyMOL
+- BIOVIA Discovery Studio
+
+## Status
+This repository is currently being developed as part of my bioinformatics learning portfolio.
+
+## Author
+Putri Amalia Zukhrufa
+
