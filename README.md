@@ -3,6 +3,8 @@
 ## Overview
 This repository documents my undergraduate in silico research project focused on identifying potential antibacterial compounds against *Vibrio parahaemolyticus*.
 
+**Note:** The undergraduate thesis abstract is available in the `results/thesis_abstract.md` file.
+
 ## Methods
 - PASS Online for biological activity prediction
 - Molecular docking using blind docking approach
@@ -12,7 +14,12 @@ This repository documents my undergraduate in silico research project focused on
 ## Tools
 - AutoDock / AutoDock Vina
 - PASS Online
-- PyMOL
+- ChemDraw
+- Avogadro
+- Protox Online
+- PkCSM
+- PubChem
+- PDB
 - BIOVIA Discovery Studio
 
 ## Status
